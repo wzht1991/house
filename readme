@@ -1,0 +1,5 @@
+First step: build express server
+second: build model
+third: controller(use,house)
+fourth: jwt
+fifth: ant design
