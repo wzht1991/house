@@ -1,0 +1,24 @@
+{
+  "name": "house",
+  "version": "1.0.0",
+  "description": "this is use for manage houses ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wzht1991/house.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wzht1991/house/issues"
+  },
+  "homepage": "https://github.com/wzht1991/house#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node": "^11.12.0"
+  }
+}
